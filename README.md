@@ -27,7 +27,6 @@ You can find me here :
   Operating Systems, Database Management System, Computer Network, Data Structure &Algorithm,
    Object-Oriented Programming, Artificial Intelligence, Machine Learning
 
-</br>
 
 ## 💻 Coding Profiles :
 <p align="left">
