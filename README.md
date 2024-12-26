@@ -7,13 +7,12 @@ You can find me here :
   <a href="mailto:kumarprince00243@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/_kumar____007_/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
   
-<br>
  
 ## About Me
 - 🔭 I am pursuing Bachelor's in Computer Science from Technocrats Institute of Technology (Excellence) | Bhopal, Madhya Pradesh.
 - 👩‍💻 I find my technical interests in Full-stack development, Data Structure and Algorithms 💖 . 
 - 👍 I aim to leverage my skills and knowledge in a collaborative environment. 
- <br>
+
   
 
 ## 💼 Tech Stack
@@ -22,7 +21,7 @@ You can find me here :
 - **Backend Development:** Express.js, Node.js
 - **Database n APIs:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
-</br>
+
 
 ## 👩‍💻 Courses
   Operating Systems, Database Management System, Computer Network, Data Structure &Algorithm,
