@@ -31,7 +31,7 @@ You can find me here :
 ## 💻 Coding Profiles :
 <p align="left">
   <a href="https://leetcode.com/u/prince_kumar1/"><img title="Follow on LeetCode" src="https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/prince_ji12"><img title="CodeChef" src="https://img.shields.io/badge/Codechef-2962FF?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/unknown_user07"><img title="CodeChef" src="https://img.shields.io/badge/Codechef-2962FF?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/user/kumarprinof21/"><img title="GFG" src="https://img.shields.io/badge/GeeksforGeeks-D14836?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/></a>
   <a href="https://www.hackerearth.com/@kumarprince00243/" rel="nofollow"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-E4405F?style=for-the-badge&amp;logo=HackerEarth&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://www.hackerrank.com/profile/kumarprince00243" rel="nofollow"><img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-E4405F?style=for-the-badge&amp;logo=Hackerrank&amp;logoColor=white" style="max-width: 100%;"></a>
