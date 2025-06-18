@@ -7,13 +7,13 @@ You can find me here :
   <a href="https://www.linkedin.com/in/prince-kumar732003/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100041425881467"><img title="Facebook" src="https://img.shields.io/badge/Facebook-2962FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="mailto:kumarprince00243@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_kumar____007_/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.instagram.com/_kum_.07/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
   
  
 ## About Me
-- 🔭 I am pursuing Bachelor's in Computer Science from Technocrats Institute of Technology (Excellence) | Bhopal, Madhya Pradesh.
-- 👩‍💻 I find my technical interests in Full-stack development, Data Structure and Algorithms 💖 . 
-- 👍 I aim to leverage my skills and knowledge in a collaborative environment. 
+- 🔭 I have completed my Bachelor’s degree in Computer Science and Engineering from Technocrats Institute of Technology (Excellence) | Bhopal, Madhya Pradesh.
+- 👩‍💻  I have a strong foundation in Java and Data Structures and Algorithms, along with practical knowledge of web development 💖 . 
+- 👍  I’m passionate about solving real-world problems in collaborative, creative teams.
 
   
 
