@@ -11,7 +11,7 @@ You can find me here :
   
  
 ## About Me
-- 🔭 I have completed my Bachelor’s degree in Computer Science and Engineering from Technocrats Institute of Technology (Excellence) | Bhopal, Madhya Pradesh.
+- 🔭 I have completed my Bachelor’s degree in Computer Science and Engineering from Technocrats Institute of Technology        (Excellence) | Bhopal, Madhya Pradesh.
 - 👩‍💻  I have a strong foundation in Java and Data Structures and Algorithms, along with practical knowledge of web development 💖 . 
 - 👍  I’m passionate about solving real-world problems in collaborative, creative teams.
 
