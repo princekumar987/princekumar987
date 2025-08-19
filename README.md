@@ -20,7 +20,7 @@ You can find me here :── .✦
 ## 💼 Tech Stack ─✦
 - **Languages:** Java, C++, C, JavaScript,
 - **Frontend Development:** HTML, CSS, React.js, Tailwind, Bootstarp
-- **Backend Development:** SpringBoot, Spring, Hibernate, JDBC, Servlets, Thymeleaf, JSP 
+- **Backend Development:** SpringBoot, RestAPI, Microservices, Spring, Hibernate, JDBC, Servlets, Thymeleaf, JSP 
 - **Database n APIs:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
 
