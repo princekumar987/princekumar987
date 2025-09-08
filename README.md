@@ -1,4 +1,4 @@
-<h1 align="center" >❤︎ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 ❤︎ </h1>
+
 
 <h1 align="center" > 🧑‍💻 Hello there! I'm <a href="https://www.linkedin.com/in/prince-kumar732003/" target="_blank">Prince Kumar</a> 🌐</h1>
 
