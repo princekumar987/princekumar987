@@ -2,7 +2,7 @@
 
 <h1 align="center" > 🧑‍💻 Hello there! I'm <a href="https://www.linkedin.com/in/prince-kumar732003/" target="_blank">Prince Kumar</a> 🌐</h1>
 
-You can find me here :── .✦
+You can find me here 
 <p align="left">
   <a href="https://www.linkedin.com/in/prince-kumar732003/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100041425881467"><img title="Facebook" src="https://img.shields.io/badge/Facebook-2962FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -10,14 +10,14 @@ You can find me here :── .✦
   <a href="https://www.instagram.com/_kum_.07/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
   
  
-## About Me ─✦
+## About Me 
 - 🔭 I have completed my Bachelor’s degree in Computer Science and Engineering from Technocrats Institute of Technology        (Excellence) | Bhopal, Madhya Pradesh.
 - 👩‍💻  I have a strong foundation in Java and Data Structures and Algorithms, along with practical knowledge of web development 💖 . 
 - 👍  I’m passionate about solving real-world problems in collaborative, creative teams.
 
   
 
-## 💼 Tech Stack ─✦
+## 💼 Tech Stack 
 - **Languages:** Java, C++, C, JavaScript,
 - **Frontend Development:** HTML, CSS, React.js, Tailwind, Bootstarp
 - **Backend Development:** SpringBoot, RestAPI, Microservices, Spring, Hibernate, JDBC, Servlets, Thymeleaf, JSP 
@@ -25,12 +25,12 @@ You can find me here :── .✦
 - **Version Control:** Git, GitHub
 
 
-## 👩‍💻 Courses ─✦
+## 👩‍💻 Courses 
   Operating Systems, Database Management System, Computer Network, Data Structure &Algorithm,
    Object-Oriented Programming, Artificial Intelligence, Machine Learning
 
 
-## 💻 Coding Profiles :─✦
+## 💻 Coding Profiles 
 <p align="left">
   <a href="https://leetcode.com/u/prince_kumar1/"><img title="Follow on LeetCode" src="https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/unknown_user07"><img title="CodeChef" src="https://img.shields.io/badge/Codechef-2962FF?style=for-the-badge&logo=codechef&logoColor=white"/></a>
