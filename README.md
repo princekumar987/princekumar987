@@ -1,6 +1,6 @@
 
 
-<h1 > Hello there! I'm <a href="https://www.linkedin.com/in/prince-kumar732003/" target="_blank">Prince Kumar</a> 🌐</h1>
+<h1 > Hello there! I'm <a href="https://www.linkedin.com/in/prince-kumar732003/" target="_blank">Prince Kumar</a>🌐</h1>
 
 You can find me here 
 <p align="left">
